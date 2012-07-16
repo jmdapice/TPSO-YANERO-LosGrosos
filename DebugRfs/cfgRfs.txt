@@ -1,0 +1,23 @@
+#ip: ip del server
+ip=127.0.0.1
+
+#port: puerto de escucha
+port=3901
+
+#log: nivel del log: DEBUG, INFO
+log=DEBUG
+
+#hilos: cantidad maxima de hilos
+hilos=5
+
+#archivo: path al archivo ext2
+archivo=ext2.disk
+
+#delay: retardo de las operaciones en ms
+delay=0
+
+#ipCahce= Ip donde va a estar la cache
+ipCache=127.0.0.1
+
+#portCache = Puerto de la cache
+portCache=11212

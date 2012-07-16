@@ -1,0 +1,16 @@
+#ipClient= Ip del cliente
+ipClient=192.168.1.107
+#ipServer= Ip del server
+ipServer=192.168.1.104
+#ipCahce= Ip donde va a estar la cache
+ipCache=192.168.1.104
+#portCache = Puerto de la cache
+portCache=11212
+#portClient=puerto inicial del pool de sockets
+portClient=3902
+#portServer= puerto del server
+portServer=3901
+#Cantidad de sockets
+poolSock=10
+
+

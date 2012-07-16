@@ -1,0 +1,9 @@
+#Esquema de Administracion de Memoria= particionesdinamicas o buddysystem
+esqAdmMemoria=particionesdinamicas
+#Para particiones dinamicas, la frecuencia de compactación
+cantBusquedasFallidas=2
+#Algortimo de busqueda= first_fit o best_fit
+algoritmobusqueda=first_fit
+#Algoritmo de reemplazo= fifo o lru
+algoritmoreemplazo=fifo
+log=DEBUG
